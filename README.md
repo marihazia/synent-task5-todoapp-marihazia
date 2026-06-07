@@ -25,7 +25,8 @@ A task management web application built as part of the Synent Technologies Web D
 3. No setup or installation required
 
 ## Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bba9ff8a-9a2d-4848-83ac-22d89a518b09" />
+<img width="794" height="443" alt="image" src="https://github.com/user-attachments/assets/a99d4bf7-8108-439f-9b8d-aa422b898133" />
+
 
 
 ## Author
