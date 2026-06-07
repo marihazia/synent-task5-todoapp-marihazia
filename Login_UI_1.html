@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Page</title>
+  <link rel="stylesheet" href="Login_UI_1.css">
+</head>
+<body>
+  <div class="card">
+    <h2>Welcome Back</h2>
+    <p class="subtitle">Please login to your account</p>
+
+  <div class="form-group">
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" placeholder="Enter your email">
+  </div>
+  <div class="form-group">
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password" placeholder="Enter your password">
+  </div>
+    <div class="forgot">
+      <a href="#">Forgot Password?</a>
+  </div>
+  <button class="btn">Login</button>
+  <p id="message">Logged in Successfully!</p>
+  </div>
+  
+
+  <script>
+    document.querySelector('.btn').onclick =()=>{
+      document.getElementById('message').style.display = 'block';
+    }
+  </script>
+</body>
+</html>
