@@ -28,7 +28,7 @@ A task management web application built as part of the Synent Technologies Web D
 > Add a screenshot of your project here
 
 ## Author
-Mariha — Synent Technologies Web Development Intern
+Mariha Zia — Synent Technologies Web Development Intern
 
 ## Repository Naming
-synent-task5-todoapp-mariha
+synent-task5-todoapp-marihazia
