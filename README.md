@@ -21,11 +21,12 @@ A task management web application built as part of the Synent Technologies Web D
 
 ## How to Run
 1. Clone the repository
-2. Open `index.html` in any browser
+2. Open `To_Do_App.html` in any browser
 3. No setup or installation required
 
 ## Screenshots
-> Add a screenshot of your project here
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bba9ff8a-9a2d-4848-83ac-22d89a518b09" />
+
 
 ## Author
 Mariha Zia — Synent Technologies Web Development Intern
